@@ -1,6 +1,6 @@
 # BA Rewards
 
-This is a port of @timrogers [https://github.com/timrogers/ba_rewards](BA Rewards)ruby gem to python, and a command-line client to access it via cron etc.
+This is a port of @timrogers [BA Rewards](https://github.com/timrogers/ba_rewards) ruby gem to python, and a command-line client to access it via cron etc.
 
 ## Setup
 
